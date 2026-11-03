@@ -53,7 +53,7 @@
 把仓库链接发给 Claude Code、Codex、Cursor、Trae 等任一支持 Skill 的 Agent，只需发送一句安装要求即可：
 
 ```text
-帮我安装这个 Skill：https://github.com/XiaqiuOO/interview-ready-Skill
+帮我安装这个 Skill：https://github.com/XiaqiuOO/interview-ready-skill
 ```
 
 ### 方式二：手动安装
